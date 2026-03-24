@@ -10,15 +10,15 @@ Antes de la etapa de desarrollo, se realizó un exhaustivo modelado de la proble
 
 ### Modelo Entidad-Relación (DER)
 Diseño conceptual de las interacciones entre Pacientes, Médicos, Especialidades y el sistema de alertas.
-![Diagrama Entidad-Relación](diseños/diagrama-entidad-relacion.jpg)
+![Diagrama Entidad-Relación](Diseño/diagrama-entidad-relacion.jpeg)
 
 ### Esquema Relacional de Base de Datos
 Estructura técnica de tablas y relaciones, incluyendo la integración con el motor de autenticación de Django.
-![Modelo Relacional](diseños/modelo-relacional-detallado.jpg)
+![Modelo Relacional](Diseño/modelo-relacional-detallado.png)
 
 ### Simulación de Infraestructura e IoT
 Arquitectura de red diseñada para el entorno hospitalario, integrando dispositivos de alerta (Sirenas/Luces) y conectividad para el personal médico.
-![Arquitectura de Red e IoT](diseños/arquitectura-red-iot.png)
+![Arquitectura de Red e IoT](Diseño/arquitectura-red-iot.png)
 
 🚀 Funcionalidades Clave
 Sistema de Triage y Alarmas: Implementación de una escala de criticidad por colores para llamadas de emergencia no atendidas, identificando instantáneamente paciente, sala y especialidad requerida.
