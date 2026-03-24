@@ -5,6 +5,21 @@ Este proyecto fue desarrollado para las Olimpiadas Nacionales de Educación Téc
 📝 Descripción del Proyecto
 Se desarrolló una plataforma Full-stack de gestión de emergencias que permite la administración centralizada de pacientes, personal médico y recursos físicos (salas). El sistema incluye un motor de Triage Automático para la priorización de la atención médica basada en la gravedad de los casos.
 
+## 📐 Diseño y Arquitectura de la Solución
+Antes de la etapa de desarrollo, se realizó un exhaustivo modelado de la problemática para asegurar la escalabilidad y consistencia de los datos.
+
+### Modelo Entidad-Relación (DER)
+Diseño conceptual de las interacciones entre Pacientes, Médicos, Especialidades y el sistema de alertas.
+![Diagrama Entidad-Relación](diseños/diagrama-entidad-relacion.jpg)
+
+### Esquema Relacional de Base de Datos
+Estructura técnica de tablas y relaciones, incluyendo la integración con el motor de autenticación de Django.
+![Modelo Relacional](diseños/modelo-relacional-detallado.jpg)
+
+### Simulación de Infraestructura e IoT
+Arquitectura de red diseñada para el entorno hospitalario, integrando dispositivos de alerta (Sirenas/Luces) y conectividad para el personal médico.
+![Arquitectura de Red e IoT](diseños/arquitectura-red-iot.png)
+
 🚀 Funcionalidades Clave
 Sistema de Triage y Alarmas: Implementación de una escala de criticidad por colores para llamadas de emergencia no atendidas, identificando instantáneamente paciente, sala y especialidad requerida.
 
