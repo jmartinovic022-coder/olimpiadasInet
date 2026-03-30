@@ -76,12 +76,12 @@ El sistema fue diseñado con una interfaz de alto contraste para facilitar la le
 | **Dashboard de Analítica** | **Gestión de Llamados (Triage)** |
 |:---:|:---:|
 | ![Dashboard](screenshots/dashboard.png) | ![Llamados](screenshots/llamados.png) |
-| [cite_start]*Visualización de estadísticas en tiempo real con Chart.js.* | [cite_start]*Monitorización de emergencias según niveles de criticidad[cite: 334].* |
+| *Visualización de estadísticas en tiempo real con Chart.js.* | *Monitorización de emergencias según niveles de criticidad.* |
 
 | **Gestión de Pacientes (ABM)** | **Reporte Detallado de Emergencia** |
 |:---:|:---:|
 | ![Pacientes](screenshots/pacientes.png) | ![Reporte](screenshots/reporte.png) |
-| [cite_start]*Administración centralizada de historias clínicas y patologías[cite: 341].* | [cite_start]*Exportación de datos críticos para seguimiento médico[cite: 335, 342].* |
+| *Administración centralizada de historias clínicas y patologías.* | *Exportación de datos críticos para seguimiento médico.* |
 
 ---
 
