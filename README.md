@@ -70,7 +70,24 @@ Para ver el sistema en acción, podés acceder a las presentaciones oficiales:
 
 ---
 
+## 🖼️ Galería de Interfaces (UI/UX)
+El sistema fue diseñado con una interfaz de alto contraste para facilitar la lectura en entornos hospitalarios de alta presión.
+
+| **Dashboard de Analítica** | **Gestión de Llamados (Triage)** |
+|:---:|:---:|
+| ![Dashboard](screenshots/dashboard.png) | ![Llamados](screenshots/llamados.png) |
+| [cite_start]*Visualización de estadísticas en tiempo real con Chart.js.* | [cite_start]*Monitorización de emergencias según niveles de criticidad[cite: 334].* |
+
+| **Gestión de Pacientes (ABM)** | **Reporte Detallado de Emergencia** |
+|:---:|:---:|
+| ![Pacientes](screenshots/pacientes.png) | ![Reporte](screenshots/reporte.png) |
+| [cite_start]*Administración centralizada de historias clínicas y patologías[cite: 341].* | [cite_start]*Exportación de datos críticos para seguimiento médico[cite: 335, 342].* |
+
+---
+
 ## 👥 Investigación y Requisitos
 El diseño de la solución no fue arbitrario; se basó en:
 * **Entrevistas de Campo:** Consultas con personal médico y gerentes de entes hospitalarios para relevar necesidades críticas en salas de emergencias.
 * **Metodología Centrada en el Usuario:** Análisis de historias de usuario para optimizar el flujo de trabajo de médicos y recepcionistas.
+
+
